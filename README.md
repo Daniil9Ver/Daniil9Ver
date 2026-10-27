@@ -1,48 +1,87 @@
-# Hi, I'm Daniil Verniienko
+<div align="center">
 
-**Computer Science student at Bournemouth University · Seeking a software development placement in 2027**
+# Daniil Verniienko
 
-I enjoy building practical applications, working with databases, and turning ideas into software. I started programming with Pascal at school around 2020–2021, and have since worked with Python, C, JavaScript and Visual Basic .NET.
+### Computer Science student · Building practical software
 
-[Connect on LinkedIn](https://www.linkedin.com/in/daniil-verniienko/)
+Bournemouth University · BSc (Hons) Computer Science
 
-## Technologies
+[![Placement 2027](https://img.shields.io/badge/Seeking_placement-2027-2f8073?style=for-the-badge)](#lets-connect)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/daniil-verniienko/)
 
-| Area | Languages and tools |
+</div>
+
+---
+
+## A little about me
+
+I build applications that organise information and solve everyday problems — from shop stock systems to library management tools. I enjoy working with databases, developing interfaces and learning how to make software easier to use.
+
+My programming journey began with Pascal at school around 2020–2021. Today, I'm studying Computer Science and looking for a **software development placement in 2027**.
+
+## My toolkit
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Visual Basic .NET](https://img.shields.io/badge/Visual_Basic_.NET-512BD4?style=flat-square)
+
+**Also worked with:** Microsoft Access · Microsoft Excel · Mathcad
+
+**Project experience:** object-oriented programming · database design · graphical interfaces · account permissions · input validation · software testing
+
+## Project highlights
+
+### 🗃️ Shop Stock Management
+
+**Python · SQL · Account permissions**
+
+An application for managing a small shop's stock, with separate account permissions for administrators and sales staff.
+
+### 📚 Library Management
+
+**Graphical interface · JSON storage · Object-oriented programming**
+
+A university coursework application for adding, searching, deleting and viewing book records. Includes input validation and a systematic test plan.
+
+## Currently exploring
+
+| Building better software | Understanding computing systems |
 | --- | --- |
-| Programming | Python, C, JavaScript, Visual Basic .NET |
-| Web | React |
-| Data | SQL, Microsoft Access |
-| Other tools | Microsoft Excel, Mathcad |
+| Data structures & algorithms | Communications & networking |
+| Software engineering | Technological innovations in computing |
+| System analysis & design | Software business |
 
-My project experience includes object-oriented programming, graphical interfaces, database design, account permissions, input validation and software testing.
+<details>
+<summary><strong>Education & background</strong></summary>
 
-## Projects
+<br>
 
-### Shop Stock Management Application
+**Bournemouth University** · 2024–2028 (expected)  
+BSc (Hons) Computer Science, including a foundation year in Engineering and Technology.
 
-A Python and SQL application for managing a small shop's stock, with an account system and different permissions for administrators and sales staff.
+**HSDC Alton** · 2022–2024  
+A-level study in Computer Science and Design & Technology: Product Design. Programming fundamentals and Visual Basic .NET; creating and developing product design ideas.
 
-### Library Management Application
+**Mykolaiv Construction Professional College** · 2020–2022  
+Software Engineering studies, including C, Microsoft Access and Mathcad.
 
-A university coursework project with a graphical interface for adding, searching, deleting and viewing book records. It uses JSON file storage, object-oriented code, input validation and a systematic test plan.
+**Beyond coding:** Missing Maps volunteering · English, Ukrainian and Russian
 
-## What I'm studying
+</details>
 
-I'm developing my knowledge of data structures and algorithms, software engineering, system analysis and design, communications and networking, software business, and technological innovations in computing.
+---
 
-## Education
+<div align="center">
 
-- **Bournemouth University — BSc (Hons) Computer Science**, 2024–2028 (expected). Foundation year in Engineering and Technology, followed by Computer Science study.
-- **HSDC Alton — A-level study**, 2022–2024. Computer Science, including Visual Basic .NET, and Design & Technology: Product Design.
-- **Mykolaiv Construction Professional College — Software Engineering studies**, 2020–2022. C, Microsoft Access and Mathcad.
+## Let's connect
 
-## Beyond coding
+**Have a software development placement opportunity for 2027?**
 
-I've volunteered with Missing Maps. I speak English, Ukrainian and Russian.
+I'd like to contribute to practical projects, learn from experienced developers and keep growing my engineering skills.
 
-## Placement opportunities
+[Get in touch on LinkedIn →](https://www.linkedin.com/in/daniil-verniienko/)
 
-I'm looking for a **software development placement in 2027** where I can contribute to practical projects, learn from experienced developers and strengthen my engineering skills.
-
-For opportunities or a conversation about my projects, [get in touch on LinkedIn](https://www.linkedin.com/in/daniil-verniienko/).
+</div>
